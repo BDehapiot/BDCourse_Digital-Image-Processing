@@ -1,2 +1,2 @@
-# BDCourse_2023_Digital-Image-Processing
-Basic concepts of digital image processing
+# BDCourse_Digital-Image-Processing
+Introduction to Digital Image Processing
